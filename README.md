@@ -1,16 +1,30 @@
-### Hi there 👋
+Hellow there! 👋😃
+------------------
 
-<!--
-**mehulsaini763/mehulsaini763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 I’m currently learning
 
-Here are some ideas to get you started:
+*   React Native
+*   MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Things that I'm currently working on:
+
+*   Some Personal Projects 🤫
+*   🔜
+
+### \- 📫 How to reach me
+
+*   mehulsaini763@gmail.com
+
+    <img width="48" height="48" src="/assets/logos/java.png" />|
+    <img width="48" height="48" src="/assets/logos/html.png" />|
+    <img width="48" height="48" src="/assets/logos/css.png" />|
+    <img width="48" height="48" src="/assets/logos/javascript.png" />|
+    <img width="48" height="48" src="/assets/logos/react.png" />|
+    <img width="48" height="48" src="/assets/logos/nextjs.png" />|
+    <img width="48" height="48" src="/assets/logos/tailwind.png" />|
+    <img width="48" height="48" src="/assets/logos/firebase.png" />|
+    <img width="48" height="48" src="/assets/logos/nodejs.png" />|
+    <img width="48" height="48" src="/assets/logos/react-native.png" />|
+    <img width="48" height="48" src="/assets/logos/mongodb.png" />|
+    <img width="48" height="48" src="/assets/logos/intellij.png" />|
+    <img width="48" height="48" src="/assets/logos/vscode.png" />
