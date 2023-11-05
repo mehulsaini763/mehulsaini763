@@ -1,5 +1,7 @@
 Hellow there! 👋😃
 ------------------
+I'm Mehul! I am a **Software Engineer**📱 with a passion for developing web and mobile applications that make a positive impact on peoples lives.
+In addition to coding and learning new tech, I enjoy working out💪, photography📷, playing guitar🎸 & playing video games🕹. If any of these things interest you too, I'd love to chat!
 
 ### 🌱 I’m currently learning
 
@@ -13,7 +15,8 @@ Hellow there! 👋😃
 
 ### 📫 How to reach me
 
-*   mehulsaini763@gmail.com
+  <img width="48" height="48" src="/assets/logos/gmail.png" />
+  <img width="48" height="48" src="/assets/logos/linkedin.png" />
 
 ### 🛠 Skills
 ㅤ
