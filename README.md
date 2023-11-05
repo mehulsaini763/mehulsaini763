@@ -18,7 +18,6 @@ In addition to coding and learning new tech, I enjoy working out💪, photograph
   <a href="https://www.linkedin.com/in/mehul-saini-528377269/"><img width="48" height="48" src="/assets/logos/linkedin.png" /></a>
 
 ### 🛠 Skills
-ㅤ
   <img width="48" height="48" src="/assets/logos/java.png" />
   <img width="48" height="48" src="/assets/logos/html.png" />
   <img width="48" height="48" src="/assets/logos/css.png" />
