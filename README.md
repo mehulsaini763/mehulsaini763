@@ -16,7 +16,7 @@ Hellow there! 👋😃
 *   mehulsaini763@gmail.com
 
 ### 🛠 Skills
-[
+ㅤ
   <img width="48" height="48" src="/assets/logos/java.png" />
   <img width="48" height="48" src="/assets/logos/html.png" />
   <img width="48" height="48" src="/assets/logos/css.png" />
@@ -30,4 +30,4 @@ Hellow there! 👋😃
   <img width="48" height="48" src="/assets/logos/mongodb.png" />
   <img width="48" height="48" src="/assets/logos/intellij.png" />
   <img width="48" height="48" src="/assets/logos/vscode.png" />
-]
+ㅤ
