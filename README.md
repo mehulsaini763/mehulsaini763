@@ -18,17 +18,17 @@ In addition to coding and learning new tech, I enjoy working out💪, photograph
   <a href="https://www.linkedin.com/in/mehul-saini-528377269/"><img width="48" height="48" src="/assets/logos/linkedin.png" /></a>
 
 ### 🛠 Skills
-<img width="48" height="48" src="/assets/logos/java.png" />
-  <img width="48" height="48" src="/assets/logos/html.png" />
-  <img width="48" height="48" src="/assets/logos/css.png" />
-  <img width="48" height="48" src="/assets/logos/javascript.png" />
-  <img width="48" height="48" src="/assets/logos/react.png" />
-  <img width="48" height="48" src="/assets/logos/nextjs.png" />
-  <img width="48" height="48" src="/assets/logos/tailwind.png" />
-  <img width="48" height="48" src="/assets/logos/firebase.png" />
-  <img width="48" height="48" src="/assets/logos/nodejs.png" />
-  <img width="48" height="48" src="/assets/logos/react-native.png" />
-  <img width="48" height="48" src="/assets/logos/mongodb.png" />
-  <img width="48" height="48" src="/assets/logos/intellij.png" />
-  <img width="48" height="48" src="/assets/logos/vscode.png" />
+  <picture><img width="48" height="48" src="/assets/logos/java.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/html.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/css.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/javascript.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/react.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/nextjs.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/tailwind.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/firebase.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/nodejs.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/react-native.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/mongodb.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/intellij.png" /></picture>
+    <picture><img width="48" height="48" src="/assets/logos/vscode.png" /></picture>
 ㅤ
