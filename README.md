@@ -14,8 +14,10 @@ In addition to coding and learning new tech, I enjoy working out💪, photograph
 *   🔜
 
 ### 📫 How to reach me
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=mehulsaini763@gmail.com&tf=cm"><img width="48" height="48" src="/assets/logos/gmail.png" /></a>
-  <a href="https://www.linkedin.com/in/mehul-saini-528377269/"><img width="48" height="48" src="/assets/logos/linkedin.png" /></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=mehulsaini763@gmail.com&tf=cm">![Static Badge](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+></a>
+  <a href="https://www.linkedin.com/in/mehul-saini-528377269/">![Static Badge](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)
+</a>
 
 ### 🛠 Skills
   <picture><img width="48" height="48" src="/assets/logos/java.png" /></picture>
