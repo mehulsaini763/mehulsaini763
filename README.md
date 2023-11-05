@@ -3,7 +3,7 @@ Hellow there! 👋😃
 I'm Mehul! I am a **Software Developer**📱 with a passion for developing web and mobile applications that make a positive impact on peoples lives.
 In addition to coding and learning new tech, I enjoy working out💪, photography📷, playing guitar🎸 & playing video games🕹. If any of these things interest you too, I'd love to chat!
 
-### 🌱 I’m currently learning
+### 🌱 I’m currently learning:
 
 *   React Native
 *   MongoDB
@@ -13,11 +13,11 @@ In addition to coding and learning new tech, I enjoy working out💪, photograph
 *   Some Personal Projects 🤫
 *   🔜
 
-### 📫 How to reach me
+### 📫 How to reach me:
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=mehulsaini763@gmail.com&tf=cm">![Static Badge](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>ㅤ<a href="https://www.linkedin.com/in/mehul-saini-528377269/">![Static Badge](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)
 </a>
 
-### 🛠 Skills
+### 🛠 Skills:
   <picture><img width="48" height="48" src="/assets/logos/java.png" /></picture>
     <picture><img width="48" height="48" src="/assets/logos/html.png" /></picture>
     <picture><img width="48" height="48" src="/assets/logos/css.png" /></picture>
